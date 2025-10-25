@@ -3,226 +3,169 @@
 
           			System requirements: 
                           —————————————————————————————————
- Windows XP, Windows Vista, 7, Windows 8, 8.1, 10, Server 2008, 2008 R2, 2012, 
- 2012 R2, 2016, 2019, Office 2010/2013/2016/2019 VL editions. 
- **** The program does NOT require any version .NET Framework. **** 
 
- 			         Description: 
-                           —————————————————————————————————
- KMSAuto++ - KMS-activator for the operating systems 
- Windows VL editions: Vista, 7, 8, 8.1, 10, Server 2008, 2008 R2, 2012, 
- 2012 R2, 2016, 2019 and Office 2010, 2013, 2016, 2019. Also you can activate Office 2010 VL 
- on Windows XP. 
- The switches provide access to the installation GVLK keys and configure the task scheduler. 
+<Instruction for Activator (English version):>
 
-  		    Advanced startup options of the program (keys): 
-                          ————————————————————————————————— 
- /win=act	- Run the program in stealth mode, activate Windows 
- 		  and exit the program. 
- /ofs=act	- Run the program in stealth mode, activate Office 
- 		  and exit the program. 
- /wingvlk=inst	- Run the program in stealth mode, install the Windows key 
- 		  and exit the program. 
- /ofsgvlk=inst	- Run the program in stealth mode, install the Office keys 
- 		  and exit the program. 
- /sched=win	- Create a task scheduler to activate Windows every 25 days. 
- /sched=ofs	- Create a task scheduler to activate Office every 25 days. 
-
- *** Keys installed forcibly, parameters can be applied all together. 
- *** Convert RETAIL -> VL possible only for non-activated office products. 
-
-   On the "Settings" tab, you can specify the external address of the KMS Service. Built-in 
- program service will not run when activated . If activation fails 0xc004f074, 
- make sure that your firewall does not prohibit a connection with your KMS-Service. 
- If you create a task scheduler for reactivation (in the program for this purpose is 
- special tab), the program can move wherever you want, you can even completely 
- remove it, it is not necessary to reactivate. 
-
-               			Installing KMS-Service: 
-                          —————————————————————————————————
-   On the "Settings" tab you can install into the system KMS-Service, Windows 7-8 
- can be activated their own of it, if configured, 
- at the address 127.0.0.2:port, and on your network adress can be activated any systems and offices. 
- Installed server does not conflict with the task scheduler or manual activation, 
- if used buttons "Activate Windows" and "Activate Office". If your system is 8.1, on the process of 
- activation will be installed a special driver, which is removed at the end of activation. 
- For this configuration must be installed "== Integrated KMS-Service ==". 
- You can also configure the activation of an external server, upon activation by pressing the buttons at 
- Main program window your system settings are not changed, they will be restored immediately 
- after activation. 
- Using two buttons at the bottom window "Settings", you can view logfile of a running server. 
-
-   			    "At me nothing activated !!!!" 
-                          —————————————————————————————————
- Perhaps you have a non-VL product, which is not intended to activate using KMS-Service 
- (Windows 7 Ultimate this program does NOT ACTIVATE), or your antivirus blocks the activation.
-
-	 ————————————————————————————————————————————————————————————————— 
-                                				 Ratiborus 
+1. DISABLE YOUR ANTIVIRUS OR WINDOWS DEFENDER.
+2. RUN "KMSELDI.exe" to launch the activator. If it is blocked by Smart Screen, open the file "Disable Smart Screen" before.
+3. If you got an problem, try to open alternative file - unzip the archive and then RUN "Start KMSPico.bat".
 
 
-Changes in versions: 
-v1.5.4
- -Task in the scheduler when using methods
-  WinDivert and Hook is created on behalf of SYSTEM.
 
-v1.5.1
- -Added Office Uninstall.
+Instrucciones para el Activador (Versión en español):
 
-v1.5.0
--Changes in the interface.
-
-v1.4.5
--Added  KMS38 Activation metod.
-
-v1.4.4
--Fixed bugs.
-
-v1.4.2
--KMS Server Service v2.0.7.
-
-v1.4.0
--Added  W10 Digital License Activation metod.
-
-v1.3.9 
--Changes in the interface.
-
-v1.3.8 
--Changes in the interface.
-
-v1.3.7
--The program is completely rewritten.
-
-v1.3.5.3
--Added GVLK Keys.
-
-v1.3.5 
- -Changes in the interface.
-
-*** It is necessary to add folders "C:\Windows\KMSAutoS" and "KMSAuto_Files" to exceptions to your antivirus !!!
-
-v1.3.4
--Fixed bugs.
--KMS Server Service v2.0.4.
-
-v1.3.3
- -Fixed minor bugs.
-
-v1.3.2
--Added GVLK Keys.
-
-v1.3.1
--Added Keys for Windows Server 2016 Essentials.
--KMSSS v2.0.3
-
-v1.3.0
- -Added Keys for Windows Server 2016.
-
-v1.2.9
- -KMSSS v2.0.0.
-
-v1.2.8
- -Re-compiled KMS Service.
-
-v1.2.7
- -Added Keys for Windows 10 and Office 2016.
-
-v1.2.5
- -Small changes in program code.
-
-v1.2.4
- -Changes in program for compatibility with antivirus software.
- -Fixed the nonworking "Install KMS-Service" button.
-
-v1.2.2
- -Added Keys for Windows 10 and Office 2016.
-
-v1.2.1
- -Added interface translation into Ukrainian.
- -Added program for Windows 10 "Show or hide updates"
-
-v1.2.0
- -Re-compiled KMS Service.
- -Added Keys for Windows 10 and Office 2016.
-
-v1.1.9
- -Added switch "Random IP address".
+1. DESACTIVA TU ANTIVIRUS O WINDOWS DEFENDER.
+2. EJECUTA "KMSELDI.exe" para iniciar el activador. Si está bloqueado por Smart Screen, abra el archivo "Disable Smart Screen" antes.
+3. Si tiene un problema, intente abrir un archivo alternativo: descomprima el archivo y luego EJECUTE "Start KMSPico.bat".
 
 
-v1.1.8 
- -Added ability to convert Office 2010 ProPlus on Windows 7-10. 
+=======================================================================================================================================
+Important: If you like MS Windows and MS Office please buy legal and original this program help to test this products, but recommend you buy legal from creators (M$ Corp).
+			
+KMSpico v10.2.0 Portable Edition.
 
-v1.1.7 
- -In program now is built utility to save and restore activation.
+- Requirements: .NET 4.0 or Windows 11/10/8/8.1/2012/R2.
+- Activate: Windows Vista Business/N/Enterprise/N
+			Windows 7 Professional/N/Enterprise/N
+			Windows 8/8.1
+			Windows 10 All
+			Windows 11 All
+			Office 2010/2013/2016
+			Windows Server 2008/Standard/Datacenter/Enterprise/2008R2/Standard/Datacenter/Enterprise/
+			Windows Server 2012/Standard/Datacenter/2012R2/Standard/Datacenter
+			Windows Server 2016-2022
 
-v1.1.6 
--Added interface translation into Vietnamese.
++ L E G A L +
 
-v1.1.5 
- -Added function correcting work MS Excel. 
- -KMS Log Analyzer works with the original logfile KMS-Service. 
- -Small changes in the program interface.
+First of all you should know that I do NOT release these cracks
+so that you "the end-user" can benefit from it in the term of
+using software or any other of these releases without buying
+the required licenses. heldigard however believe that everyone
+should have the option to test and backup their program and be
+able to run it without any problems.
 
-v1.1.4 
- -Can launch only one copy of the program. 
- -Fixed a bug at which key win=act was not working on Windows 7
+Further I do NOT in any way condone the spreading of this
+crack, in other words I do NOT spread the releases to any
+websites, P2P networks or any other public available location
+and I urge that this releases should not be spread like that
+at all.
 
-v1.1.3 
- -Changes in the interface. 
- -Added function "Delete state invalid system"
+I -heldigard- has nothing to do with the distribution of these
+cracks, it is all done by third parties. As such, and
+according to the laws where the individuals of heldigard reside,
+it is not my responsibility what others decides to do with
+these releases. However, let it be said quite clearly;
 
-v1.1.2
- -Changes in the interface. 
+"I DO NOT in any way condone the selling or redistribution
+of these cracks, this was NEVER my intention."
 
-v1.1.1 
- -Changes in the interface. 
- -Added new functions. 
- -Fixed a bug with the forced installation of the keys. 
- -New version of the KMS-Service, fixed output HWid.
+heldigard does NOT take any responsibility of computer-loss
+or any data-errors that may occur from using these cracks.
+Keep in mind that you are using a third party solution to
+something we did not develop in the first place.
 
- v1.1.0 
- -Changes in the interface. 
- -Added new functions.
+Do note that the usage of these cracks are legal in most
+countries outside the United States, IF and ONLY IF you own a
+full copy of the program - then you may use these cracks
+for backup purposes, and only that. It remains to be seen how
+affected you are of the End User License Agreements (EULAs).
+They can't supersede domestic laws, remember that.
 
- v1.0.8 
- -Changes in the interface. 
- -Added English interface.
+According to the "DMCA ACT" in the Unites States, you have no
+rights to circumvent a copy protection. Beware, they will
+punish you harder than if you stole the shrinkwrapped software
+in a mall. Though heldigard's base of operation does not reside
+in the Unites States, and thus I am NOT bound to the
+US legislations like:
 
- v1.0.7 
- -Changes in the interface. 
- -The program now remembers the position of her window on the screen. 
- -Added command line switches. 
- -Added ability to set up a local KMS-Service with the specified parameters. 
+* No Electronic Theft Act
+* Digital Millenium Copyright Act
+* The Patriot Act
+* "other US legislations"
 
- v1.0.6 
- -Changes in the interface. 
- -Added new command line switch. 
- -Changed algorithm some features of the program. 
+You should ALWAYS buy the software that you do use, or find
+suitable Open Source replacements (as there are loads), I do!
 
- v1.0.5.1 
- -Changes in the interface. 
- -Added ability to set your address KMS-Service and any port. 
- -Added ability to convert Office 2013 products on Windows 7-10. 
+By using these cracks you automatically agree
+to the written agreement above, and thus the responsibility
+regarding whatever you are affected by any EULAs is
+with YOU and YOU only.
 
- v1.0.4 
- -Changes in the interface. 
- -Added ability to run the program with the keys. 
- -Added ability to create a task scheduler for reactivation Windows and 
- Office every 25 days. This function does not work on Windows XP. 
++ G R E E T S +
 
- v1.0.3 
- -Changes in the interface. 
- -Added ability to install GVLK keys forcibly. 
+MIKMIK38, RATIBORUS, QAD, ZM0D, CYNECX, ALPHAWAVES
+NOSFERATI87, JM287, HOTBIRD64, DEAGLES, CODYQX4, XINSO, NOVEMBER_RA1N
+CERBERUS8855, HUI, NOVA-S, KELORGO.
 
- v1.0.2 
- -Fixed error with installation keys. 
+forums.mydigitallife.info
+nsaneforums.com
+intercambiosvirtuales.org
+ru-board.com
+pcbeta.com
 
- v1.0.1 
- -Changes in the interface. 
- -Added ability to install GVLK keys. 
+FAQ
 
- v1.0.0 
- -First version, test. 
- [/more] 
+0. Windows Update
+Q: Can I install the updates after using this application?
+A: Until now yes.
+
+1. SmartScreen
+Q: The smart-screen is Gray!, god save all of us, kmspico broke my OS!.
+A: If you are enough fool to use SmartScreen, then EnableSmartScreen the reg file in scripts folder.
+
+2. Permanent Activation
+Q: It is this permanent?
+A: Until now for Windows 6,7,8,8.1 it will automatic reactivate it often, so yes.
+
+3. Pro WMC/Core
+Q: It only activate for 30 days or 45 days?
+A: It is not possible in real kms activate a ProWMC/Core, but thanks to the emulator is possible activate it for 30 days in W8 and 45 days for W8.1
+
+4. Virus:
+Q:My anti-virus alert like crazy!
+A:If you downloaded the file from another location, we don't know what other people do with the file. The file here only has false positives.
+
+5. On-line/Off-line:
+Q: I need internet connection?
+A: No.
+
+6. Evaluation Edition
+Q: I can't activate Windows 8.1 only Office, HELP!!!
+I'm having problems with activating windows.
+The log:
+
+20:13:26:322 Installing Key: -9D6T9 
+20:13:26:403 Error: C004E016 InstallProductKey 
+20:13:26:562 Error: C004F013 RefreshLicenseStatus 
+20:13:26:917 Found Windows Products: 1 
+20:13:26:919 Name: Windows(R), Professional edition
+Description: Windows(R) Operating System, RETAIL channel
+GracePeriodRemaining: 0
+LicenseStatus: 0
+PartialProductKey: 9Y92F
+GenuineStatus: 1
+
+A: If you are using an evaluation version, then install a fresh RTM edition.
+
+
+7. Firewall AV
+Q: Does not Work!!!
+A: Some anti-virus block the applications, give the respective exceptions.
+
+8. Hack-activators
+Q: Nothing Work!!!
+A: Do a fresh install.
+
+9. Watermark
+Q: It activate, but the watermark is still there!
+A: Reboot.
+
+10. OEM/MAK
+Q: I am afraid, my windows/office is genuine/legit activated. Do this application will broke my license? 
+A: The application is designed to check a permanent activation either windows or office and avoid it. Older versions was buggy, but the main idea of this app is be smart and take the right choice without any intervention.
+
+11. Log files
+Q: Where are the log files of this program?
+A: Program Files -> KMSpico -> logs
 
 
