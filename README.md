@@ -1,4 +1,4 @@
-			KMSAuto++ Portable by Xelvryn, 
+# KMSAuto by Xelvryn, 
  				  MSFree Inc. 
 
           	
