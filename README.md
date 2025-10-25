@@ -167,3 +167,5 @@ Q: Where are the log files of this program?
 A: Program Files -> KMSpico -> logs
 
 
+yofiproject.pro anda yofi.my.id
+
