@@ -4,7 +4,7 @@
           			System requirements: 
                           —————————————————————————————————
 
-<Instruction for Activator (English version):>
+Instruction for Activator (English version):
 
 1. DISABLE YOUR ANTIVIRUS OR WINDOWS DEFENDER.
 2. RUN "KMSELDI.exe" to launch the activator. If it is blocked by Smart Screen, open the file "Disable Smart Screen" before.
@@ -19,7 +19,7 @@ Instrucciones para el Activador (Versión en español):
 3. Si tiene un problema, intente abrir un archivo alternativo: descomprima el archivo y luego EJECUTE "Start KMSPico.bat".
 
 
-=======================================================================================================================================
+
 Important: If you like MS Windows and MS Office please buy legal and original this program help to test this products, but recommend you buy legal from creators (M$ Corp).
 			
 KMSpico v10.2.0 Portable Edition.
