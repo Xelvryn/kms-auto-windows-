@@ -1,9 +1,7 @@
-			KMSAuto++ Portable by Ratiborus, 
+			KMSAuto++ Portable by Xelvryn, 
  				  MSFree Inc. 
 
-          			System requirements: 
-                          —————————————————————————————————
-
+          	
 Instruction for Activator (English version):
 
 1. DISABLE YOUR ANTIVIRUS OR WINDOWS DEFENDER.
