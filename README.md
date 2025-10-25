@@ -166,6 +166,5 @@ A: The application is designed to check a permanent activation either windows or
 Q: Where are the log files of this program?
 A: Program Files -> KMSpico -> logs
 
-
-yofiproject.pro anda yofi.my.id
+Copyright @Xelvryn
 [yofiproject.pro](https://yofiproject.pro/) [yofi.my.id](https://yofi.my.id/) 
